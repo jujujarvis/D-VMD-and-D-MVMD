@@ -9,4 +9,4 @@ This function is modified from Variational Mode Decomposition proposed by Konsta
 
 When using this code, please do cite our paper: 
 
-J. Jian, Z. Lu, J. Liu, et al. "De-mixing variational mode decomposition and its application on operational modal analysis in the presence of closely spaced modes", Measurement. 
+J. Jian, Z. Lu, J. Liu, et al. "De-mixing variational mode decomposition and its application on operational modal analysis in the presence of closely spaced modes", Measurement, 2024. 
